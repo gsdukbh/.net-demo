@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{662A0B03-54AE-485B-9BD0-6E2E1807D895}|Default">
+  <MonoDevelop.Ide.ItemProperties.mq-demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NormalPublisher/Program.cs">
+    <Files>
+      <File FileName="mq-demo/Program.cs" Line="18" Column="40" />
+      <File FileName="NormalPublisher/Program.cs" Line="15" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mq-demo" expanded="True">
+            <Node name="mq-demo" expanded="True" />
+            <Node name="NormalPublisher" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

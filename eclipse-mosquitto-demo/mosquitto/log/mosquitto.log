@@ -1,0 +1,11 @@
+1623047271: mosquitto version 2.0.10 starting
+1623047271: Config loaded from /mosquitto/config/mosquitto.conf.
+1623047271: Opening ipv4 listen socket on port 1883.
+1623047271: Opening ipv6 listen socket on port 1883.
+1623047271: mosquitto version 2.0.10 running
+1623047846: New connection from 172.18.0.1:65122 on port 1883.
+1623047846: New client connected from 172.18.0.1:65122 as 3691574b-ada8-43b3-aa38-f4f633efc211 (p2, c1, k60).
+1623047882: New connection from 172.18.0.1:65126 on port 1883.
+1623047882: New client connected from 172.18.0.1:65126 as 914b046f-5c1b-4263-89f3-9d7e28b831c9 (p2, c1, k60).
+1623047895: Client 914b046f-5c1b-4263-89f3-9d7e28b831c9 closed its connection.
+1623047896: Client 3691574b-ada8-43b3-aa38-f4f633efc211 closed its connection.

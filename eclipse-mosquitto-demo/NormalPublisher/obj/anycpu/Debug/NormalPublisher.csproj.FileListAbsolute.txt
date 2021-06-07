@@ -1,0 +1,8 @@
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/bin/Debug/NormalPublisher.exe
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/bin/Debug/NormalPublisher.pdb
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/bin/Debug/M2Mqtt.Net.dll
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/bin/Debug/M2Mqtt.Net.pdb
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/obj/anycpu/Debug/NormalPublisher.csproj.CoreCompileInputs.cache
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/obj/anycpu/Debug/NormalPublisher.csproj.CopyComplete
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/obj/anycpu/Debug/NormalPublisher.exe
+/Users/leejiawei/Projects/mq-demo/NormalPublisher/obj/anycpu/Debug/NormalPublisher.pdb

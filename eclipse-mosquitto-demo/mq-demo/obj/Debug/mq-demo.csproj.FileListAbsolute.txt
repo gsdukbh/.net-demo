@@ -1,0 +1,9 @@
+/Users/leejiawei/Projects/mq-demo/mq-demo/bin/Debug/mq-demo.exe
+/Users/leejiawei/Projects/mq-demo/mq-demo/bin/Debug/mq-demo.pdb
+/Users/leejiawei/Projects/mq-demo/mq-demo/obj/Debug/mq-demo.csprojAssemblyReference.cache
+/Users/leejiawei/Projects/mq-demo/mq-demo/obj/Debug/mq-demo.csproj.CoreCompileInputs.cache
+/Users/leejiawei/Projects/mq-demo/mq-demo/obj/Debug/mq-demo.exe
+/Users/leejiawei/Projects/mq-demo/mq-demo/obj/Debug/mq-demo.pdb
+/Users/leejiawei/Projects/mq-demo/mq-demo/bin/Debug/M2Mqtt.Net.dll
+/Users/leejiawei/Projects/mq-demo/mq-demo/bin/Debug/M2Mqtt.Net.pdb
+/Users/leejiawei/Projects/mq-demo/mq-demo/obj/Debug/mq-demo.csproj.CopyComplete
