@@ -9,3 +9,6 @@
 1623047882: New client connected from 172.18.0.1:65126 as 914b046f-5c1b-4263-89f3-9d7e28b831c9 (p2, c1, k60).
 1623047895: Client 914b046f-5c1b-4263-89f3-9d7e28b831c9 closed its connection.
 1623047896: Client 3691574b-ada8-43b3-aa38-f4f633efc211 closed its connection.
+1623049070: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1623049070: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
+1623049070: Error: No such file or directory.
