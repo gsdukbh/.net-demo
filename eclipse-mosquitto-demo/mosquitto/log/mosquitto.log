@@ -12,3 +12,20 @@
 1623049070: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1623049070: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
 1623049070: Error: No such file or directory.
+1623050870: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1623050870: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
+1623050870: Error: No such file or directory.
+1623052669: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1623052669: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
+1623052669: Error: No such file or directory.
+1623054469: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1623054469: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
+1623054469: Error: No such file or directory.
+1623056269: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1623056269: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
+1623056269: Error: No such file or directory.
+1623058068: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1623058068: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
+1623058068: Error: No such file or directory.
+1623058370: mosquitto version 2.0.10 terminating
+1623058370: Saving in-memory database to /mosquitto/data//mosquitto.db.
